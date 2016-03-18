@@ -1,2 +1,18 @@
-# XYZ1
-Links
+https://www.coursera.org/learn/machine-learning
+http://stats.stackexchange.com/questions/30129/skills-coursework-needed-to-be-a-data-analyst
+http://stats.stackexchange.com/questions/414/introduction-to-statistics-for-mathematicians
+http://stats.stackexchange.com/questions/6538/mathematician-wants-the-equivalent-knowledge-to-a-quality-stats-degree
+http://bayesianthink.blogspot.sg/2012/12/the-best-books-to-learn-probability.html#.VuD5s7J97ct
+https://github.com/datasciencemasters
+http://blog.knoldus.com/2015/06/29/data-science-spark-data-visualization-for-processing-out-the-key-factors-using-zeppeling/
+https://collaborate.citi.net/events/41299
+https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples
+http://docs.splunk.com/Documentation/Splunk/latest/SearchTutorial/Addreportstodashboard
+https://bionicspirit.com/
+https://www.khanacademy.org/math/probability/regression/prob-stats-scatter-plots/v/scatter-plot-interpreting
+http://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
+http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/
+http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/
+http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/
+http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/
