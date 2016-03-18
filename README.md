@@ -17,3 +17,4 @@ http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science
 http://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/
 http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/
 http://www.cio.com/article/3023380/leadership-management/read-cios-january-2016-digital-magazine-state-of-the-cio.html
+English:  https://alison.com/courses/Introduction-to-Conversational-English/content/scorm/5127/module-1-meeting-people
