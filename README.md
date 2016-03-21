@@ -26,3 +26,5 @@ English:  https://alison.com/courses/Introduction-to-Conversational-English/cont
 Jobs:  http://www.yelp.com.sg/biz/jobspring-partners-san-francisco-4
 
 STATS: https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#chap0_toc.htm
+          https://www.quora.com/What-are-the-typical-use-cases-for-different-machine-learning-algorithms
+          http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
