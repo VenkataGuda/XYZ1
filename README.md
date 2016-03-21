@@ -24,3 +24,5 @@ English:  https://alison.com/courses/Introduction-to-Conversational-English/cont
           http://www.english-for-students.com/Grammar.html
           http://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/
 Jobs:  http://www.yelp.com.sg/biz/jobspring-partners-san-francisco-4
+
+STATS: https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#chap0_toc.htm
