@@ -28,3 +28,7 @@ Jobs:  http://www.yelp.com.sg/biz/jobspring-partners-san-francisco-4
 STATS: https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/viewer.htm#chap0_toc.htm
           https://www.quora.com/What-are-the-typical-use-cases-for-different-machine-learning-algorithms
           http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+          
+          
+
+../spark-1.6.0/bin/spark-submit --class SparkPi --master local[8] target/scala-2.10/spark-sample_2.10-1.0.jar
