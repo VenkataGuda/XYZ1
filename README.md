@@ -34,3 +34,7 @@ STATS: https://support.sas.com/documentation/cdl/en/statug/63033/HTML/default/vi
 ../spark-1.6.0/bin/spark-submit --class SparkPi --master local[8] target/scala-2.10/spark-sample_2.10-1.0.jar
 http://192.168.0.105:8088
 spark://ip-192.168.0.105:7077
+
+$SPARK_HOME/bin/spark-submit --class /Users/venkatabhaskarreddyguda/sparksample/SparkPi --master spark://VENKATAs-iMac.local:7077 /Users/venkatabhaskarreddyguda/sparksample/target/scala-2.10/spark-sample_2.10-0.0.1.jar
+
+$SPARK_HOME/bin/spark-submit --class "SparkPi" --master spark://VENKATAs-iMac.local:7077 target/scala-2.10/spark-sample_2.10-0.0.1.jar 1
