@@ -1,0 +1,58 @@
+Education, Experience and Knowledge: 
+
+- Bachelors Degree in Computer Science, Information Technology, or related field, from a four-year college or university, or equivalent combination of education and experience. 
+- Relevant industry certification, such as OReilly Certified Administrator on Apache Cassandra, is preferred. 
+- Minimum of 2+ years in supporting Cassandra databases in a clustered environment in progressively challenging and/or similar roles. 
+- Prefer 2+ years experience hosting and running Cassandra in AWS. 
+- Working knowledge of AWS platform a plus (e.g. EC2, Route 53, VPC) 
+- Minimum of 5+ years working experience in Linux. 
+- Minimum of 5+ years working in IT development and/or technical support. 
+- Deep understanding of internals of NoSQL approach. 
+- Working knowledge of Cassandra architecture. 
+- Experience in tuning JVM. 
+- Advanced knowledge of various troubleshooting tasks (ex. Latency Analysis, Thread state Analysis, etc.) 
+- Knowledge of installation and configuration procedures. 
+- Knowledge of add/bootstrap nodes to clusters. 
+- Knowledge of remove/replace nodes in clusters. 
+- Knowledge of replication between data centers. 
+- Java development experience is a significant plus. 
+- Experience with development and automation tools such as Maven, GIT and Jenkins. 
+- Working knowledge of hardware, including RAID, multi-processor architecture, etc. 
+- Working knowledge of networking and how it relates to database operations and connectivity. 
+- Ability to create tools from scratch needed for database administration. 
+- Advanced knowledge of shell scripting (i.e. command line applications, batch files, etc.) 
+Responsible for recommending database solutions to recognized problems and for design and implementation of new Cassandra and Open Source databases. Evaluate database and software requirements and influence design decisions.
+Responsible for installation and configuration of databases in clusters and setup & maintain replication for active/active solutions between data centers.
+Responsible for configuring backup / restore utilities and developing disaster recovery policies and procedures.
+Responsible for setting up effective monitoring for alerts and capacity analysis. Also, tuning the database environment to insure optimal performance and resource utilization.
+Responsible for creating, maintaining and updating documentation necessary to support the database operations by the DBA team.
+Responsible for enforcing Enterprise security policies and procedures on databases
+Write and maintain scripts in support of database maintenance to ensure consistent performance. Maintain solid working knowledge of functionality of existing platforms and future enhancements.
+Coordinate with vendors to assure the continuing functionality of SQL Server as regards upgrades, versions, services packs, new releases.
+Provide 24 x 7 on call support as part of a scheduled rotation with other team members.
+Provide advanced troubleshooting for applications and systems and advanced technical support for database related project activities
+Participate in design and code reviews. Configure and tune databases and operating system software to ensure optimum performance and resource utilization.
+Function as the technical liaison between System Administrators and DBA teams. Provide mentoring to fellow administrators.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abilities: 
+- Ability to participate in 24x7 on-call rotation and perform after hours support, as needed. 
+- Ability to work effectively in a team-oriented environment, both independently and collaboratively. 
+- Ability to uphold Choices Values & Performance Principles of collaboration, performance excellence, sense of urgency, openness to new ideas, inclusion & diversity, integrity, customer focus, and respect. 
+
+Choice Hotels is an equal opportunity employer committed to hiring a diverse workforce.
